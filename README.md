@@ -12,8 +12,8 @@ A machine learning project to detect credit card fraud using the popular imbalan
 
 ## Final Results
 - **GRU gives the best scores of evaluation metrices**
-- **Recall (fraud): 0.82**
-- **Precision (fraud): 0.82**
+- **Recall (GRU): 0.82**
+- **Precision (GRU): 0.82**
 
 ## How to Run
 1. Clone this repo
