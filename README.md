@@ -6,7 +6,7 @@ A deep learning project to detect sentiments using the popular twitter(X) datase
 [Kaggle - Sentiment-140](https://www.kaggle.com//sentiment140)
 
 ## Overview
-- Preprocessed the unnecessary words/regular expression data
+- Preprocessed the unnecessary words/regular expression in the data
 - Trained RNN models- LSTM, GRU,BiLSTM
 - Evaluated via classification report and confusion matrix
 
