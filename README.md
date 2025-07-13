@@ -1,22 +1,20 @@
-# Credit Card Fraud Detection using Ensemble models
+# Sentiment Analysis using RNN models
 
 A machine learning project to detect credit card fraud using the popular imbalanced dataset from Kaggle.
 
 ## Dataset
-[Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+[Kaggle - Sentiment-140](https://www.kaggle.com//sentiment140)
 
 ## Overview
 - Preprocessed highly imbalanced data
-- Applied class weighting via `scale_pos_weight`
-- Trained ensemble models- RandomForest, XGBoost,LightBoost
-- Evaluated via ROC AUC and confusion matrix
+- Trained RNN models- LSTM, GRU,BiLSTM
+- Evaluated via classification report and confusion matrix
 - Achieved 0.86 recall and 0.94 precision on fraud class
 
 ## Final Results
-- **XGBoost gives the best scores of evaluation metrices**
-- **Recall (fraud): 0.86**
-- **Precision (fraud): 0.94**
-- **ROC AUC: 0.93**
+- **GRU gives the best scores of evaluation metrices**
+- **Recall (fraud): 0.82**
+- **Precision (fraud): 0.82**
 
 ## How to Run
 1. Clone this repo
