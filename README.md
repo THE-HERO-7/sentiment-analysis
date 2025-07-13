@@ -9,7 +9,6 @@ A machine learning project to detect credit card fraud using the popular imbalan
 - Preprocessed highly imbalanced data
 - Trained RNN models- LSTM, GRU,BiLSTM
 - Evaluated via classification report and confusion matrix
-- Achieved 0.86 recall and 0.94 precision on fraud class
 
 ## Final Results
 - **GRU gives the best scores of evaluation metrices**
