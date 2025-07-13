@@ -1,6 +1,6 @@
 # Sentiment Analysis using RNN models
 
-A machine learning project to detect credit card fraud using the popular imbalanced dataset from Kaggle.
+A deep learning project to detect sentiments using the popular twitter(X) dataset from Kaggle.
 
 ## Dataset
 [Kaggle - Sentiment-140](https://www.kaggle.com//sentiment140)
